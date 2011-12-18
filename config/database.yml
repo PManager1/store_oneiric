@@ -40,4 +40,4 @@ production:
   username: root
   password: pass$
   host: 127.0.0.1
-  socket: /tmp/mysql.sock
+  socket: /var/run/mysqld/mysqld.sock
