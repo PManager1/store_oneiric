@@ -14,7 +14,7 @@ role :db,  "50.18.174.75", :primary => true # This is where Rails migrations wil
 
 
 default_run_options[:pty] =  true
-set :repository,  "git@github.com:jaipratik/store3.git"
+set :repository,  "git@github.com:jaipratik/store_oneiric.git"
 set :scm, :git
 set :branch, "master"
 

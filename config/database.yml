@@ -38,5 +38,6 @@ production:
   database: store_oneiric_production
   pool: 5
   username: root
-  password:
+  password: pass$
+  host: 127.0.0.1
   socket: /tmp/mysql.sock
